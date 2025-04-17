@@ -1,0 +1,9 @@
+.restartButton {
+  margin-top: 40px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: 2px solid black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Times New Roman";
+}
